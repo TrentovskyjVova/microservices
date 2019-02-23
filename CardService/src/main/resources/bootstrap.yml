@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: CardService
+  cloud:
+    config:
+      uri: http://localhost:8600
+
